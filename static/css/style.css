@@ -1,6 +1,23 @@
-.c12{
-  margin-left: 175px;
-}
 .row{
   margin-top: 50px;
+}
+
+.title{
+  text-align: center;
+  text-decoration: underline;
+  margin-top: 50px;
+}
+.result{
+  text-align: center;
+  font-weight: bold;
+  margin-top: 20px;
+}
+.notlike{
+  text-align: center;
+  font-size: 36px;
+  margin: 20px;
+  font-weight: bold;
+}
+#notlikeTop{
+  margin-top: 100px;
 }
