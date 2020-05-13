@@ -5,7 +5,7 @@ def get_location(activity):
         "hiking" : "Mount Kilimanjaro, Tanzania",
         "surfing" : "Malibu, California",
         "cliffdiving" : "Waimea Bay, Hawaii",
-        "rockclimbing" : "El Capitan"
+        "rockclimbing" : "El Capitan, Yosemite National Park"
     }
     activity = activity.lower()
     activity = activity.replace(" ", "")
